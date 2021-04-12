@@ -1,2 +1,2 @@
-# Project-2
+# Blog website using Bootstrap
 Bootstrsap
