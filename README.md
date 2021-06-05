@@ -1,2 +1,2 @@
-# Blog website using Bootstrap
+# A Blog website using Bootstrap 
 Bootstrsap
